@@ -1,5 +1,4 @@
-console.log('Hello world!') ;
-console.log('Hello world!');
-console.log('Hello world!');
-console.log('Hello world!');
-console.log('Hello world!'); 
+let number = 10;
+console.log('log');
+console.warn('warn');
+console.error('error');
